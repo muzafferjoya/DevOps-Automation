@@ -270,7 +270,7 @@ This repository contains a collection of Ansible automation scripts designed to 
 ### Usage
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/yourusername/ansible-automation-scripts.git
    cd ansible-automation-scripts
 ```
