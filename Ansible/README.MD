@@ -271,6 +271,6 @@ This repository contains a collection of Ansible automation scripts designed to 
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/ansible-automation-scripts.git
-   cd ansible-automation-scripts
+   git clone https://github.com/muzafferjoya/DevOps-Automation.git
+   cd DevOps-Automation
 ```
